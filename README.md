@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack web applications using React, Tailwind CSS, Node.js, Express, MongoDB, and building real-world projects like a YouTube-style platform, banking app, and AI-powered tools.<br>Open-source full-stack projects, React applications, API-driven apps.<br>JavaScript, React, Node.js, Express, MongoDB, API design, error handling, and converting backend projects into full-stack apps.<br>I can spend hours debugging a bug… only to realize it was a missing semicolon
+Full-stack web applications using React, Tailwind CSS, Node.js, Express, MongoDB, and building real-world projects.<br>Open-source full-stack projects, React applications, API-driven apps.<br>JavaScript, React, Node.js, Express, MongoDB, API design, error handling, and converting backend projects into full-stack apps.<br>I can spend hours debugging a bug… only to realize it was a missing semicolon
 
 
 ## 🌐 Socials:
